@@ -1,4 +1,4 @@
-## Project description
+## React Native Textbook Dectect App with supported JSON
 
 The bounding data is in `data.json`.
 
