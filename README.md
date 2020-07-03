@@ -10,7 +10,7 @@ The image that the bounding boxes overlay is called `imageExample.jpg`, and is o
 
 The width x height dimensions of the original image are 1017 x 1403.
 
-## What I need
+##  What I implemented here.
 
 I need a component that does the following - 
 
@@ -19,3 +19,7 @@ I need a component that does the following -
 3) Will scale the bounding boxes to the image that is attached.
 4) When the image is zoomed, the bounding boxes will move with the image to stay in their correct spaces.
 5) When the bounding box is touched, it returns the bounding box data (word, paragraph id, etc.) that created it
+
+<kbd>
+	<img src="imageExample.jpeg" />
+</kbd>
